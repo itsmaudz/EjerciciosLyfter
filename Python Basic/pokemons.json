@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "level": 54,
+        "weight_kg": 6.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Thunder Shock",
+            "Quick Attack",
+            "Thunderbolt",
+            "Volt Tackle"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "sp_attack": 50,
+            "sp_defense": 50,
+            "speed": 90
+        }
+    },
+    {
+        "name": "Charmander",
+        "type": "Fire",
+        "level": 8,
+        "weight_kg": 8.5,
+        "is_shiny": true,
+        "held_item": "Charcoal",
+        "skills": [
+            "Ember",
+            "Scratch",
+            "Tackle",
+            "Smokescreen"
+        ],
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "sp_attack": 60,
+            "sp_defense": 50,
+            "speed": 65
+        }
+    },
+    {
+        "name": "owo",
+        "type": "water",
+        "level": 9999,
+        "weight_kg": 1.0,
+        "is_shiny": true,
+        "held_item": null,
+        "skills": [
+            "inmortal",
+            "todo lo que pide se le cumple",
+            "restaurar a sus poderes originales"
+        ],
+        "stats": {
+            "hp": 9999,
+            "attack": 888,
+            "defense": 777,
+            "sp_attack": 666,
+            "sp_defense": 555,
+            "speed": 444
+        }
+    }
+]
