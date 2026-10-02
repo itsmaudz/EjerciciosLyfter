@@ -1,0 +1,75 @@
+[33mcommit 7143f28a6096e43628345a1f4d07e21b460e97d5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mejercicio-de-git-entrega[m[33m, [m[1;31morigin/ejercicio-de-git-entrega[m[33m)[m
+Author: Amaury <mauromendozat7@gmail.com>
+Date:   Tue Sep 29 22:03:02 2026 -0500
+
+     explicacion-ejercicio-de-git
+
+#EXPLICACION: se explicael motivo por el cual no tenia un PR de mi ejercico ya que 
+realice el ejercicio a la vez que veia el curso 
+
+
+[33mcommit c72c90d0469aad7edcc092c34f12445b4a4a279e[m[33m ([m[1;31morigin/ejercicios-modulos[m[33m, [m[1;32mejercicios-modulos[m[33m)[m
+Author: Amaury <mauromendozat7@gmail.com>
+Date:   Tue Sep 29 21:48:34 2026 -0500
+
+    Organizacion de mis carpetas
+
+#EXPLICACION: organizacion de mis carpetas ya que estaban algunos  ejercicios  dispersos
+
+
+[33mcommit 0a082d7139dcdc029df647f4e9a1503c78b88ba2[m
+Author: Amaury <mauromendozat7@gmail.com>
+Date:   Tue Sep 29 21:20:36 2026 -0500
+
+    modules exercices
+
+#EXPLICACION: se hace commit al modulos exercices 
+
+
+[33mcommit 065e7102f53a787a2e6442eb5a34844b04d997f3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 75313c4 e1f550f
+Author: itsmaudz <MauroMendozat7@gmail.com>
+Date:   Tue Sep 29 21:02:59 2026 -0500
+
+    Merge pull request #1 from itsmaudz/ejercicios-anteriores
+    
+    Ejercicios anteriores
+
+#EXPLICACION: estaba haciendo un Merge a mis archivos locales para que  se subieran 
+a git
+
+
+[33mcommit e1f550f41210fab60bb11929e2a23fbdc1ee82b4[m[33m ([m[1;31morigin/ejercicios-anteriores[m[33m, [m[1;32mejercicios-anteriores[m[33m)[m
+Author: Amaury <mauromendozat7@gmail.com>
+Date:   Tue Sep 29 20:55:35 2026 -0500
+
+    agregue una cancion a canciones.txt
+
+#EXPLICACION: agregue una cancion llamada Joseph al documento canciones.txt 
+
+
+[33mcommit 6a157f28d7d9a689b77c1d5c76a327c9c35500e9[m
+Author: Amaury <mauromendozat7@gmail.com>
+Date:   Tue Sep 29 20:49:58 2026 -0500
+
+    applied feedback on canciones.txt
+
+#EXPLICACION: se realizan los cambios y se sube al git
+
+
+[33mcommit 6eb1b5c9e8d99b54794c4301c82f300ba96bbdb7[m
+Author: Amaury <mauromendozat7@gmail.com>
+Date:   Tue Sep 29 20:38:37 2026 -0500
+
+    Uploadig first exercices when i started lerning Python.
+
+#EXPLICACION: creando git y preparando mis archivos  locales para subirlos a git paso a paso
+
+
+[33mcommit 75313c4e01e21e5b3dd80da9795b376d317f645f[m
+Author: itsmaudz <MauroMendozat7@gmail.com>
+Date:   Tue Sep 29 20:15:08 2026 -0500
+
+    Initial commit
+
+#EXPLICACION: haciendo un commit inicial de practica
