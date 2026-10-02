@@ -36,7 +36,7 @@ def create_pokemon():
     print('ingrese la siguente informacion del pokemon')
 
     new_pokemons["name"] = input('Nombre: ').strip().lower()
-    new_pokemons["tyype"]= input('Tipo: ').strip().lower()
+    new_pokemons["type"]= input('Tipo: ').strip().lower()
     new_pokemons["level"] = get_int('Nivel: ')
     new_pokemons["weight_kg"] = get_float('Peso(Kg): ')
 
